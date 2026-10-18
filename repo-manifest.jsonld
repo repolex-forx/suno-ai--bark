@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/suno-ai/bark/commit/f4f32d4cd480dfec1c245d258174bc9bde3c2148",
       "git:hexsha": "f4f32d4cd480dfec1c245d258174bc9bde3c2148",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T01:47:04.191954+00:00"
     }
   ]
 }
