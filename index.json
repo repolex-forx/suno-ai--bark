@@ -1,0 +1,11 @@
+{
+  "org": "suno-ai",
+  "repo": "bark",
+  "versions": [
+    {
+      "commit": "f4f32d4cd480dfec1c245d258174bc9bde3c2148",
+      "tag": "",
+      "parsed_at": "2026-10-18T01:47:04.192394+00:00"
+    }
+  ]
+}
